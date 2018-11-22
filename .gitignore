@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+data
 *.pyc
 *.pth
 Untitled.ipynb
