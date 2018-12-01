@@ -37,3 +37,10 @@ cd ..
 mkdir val && mv ILSVRC2012_img_val.tar val/ && cd val && tar -xvf ILSVRC2012_img_val.tar
 wget -qO- https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh | bash
 ```
+
+Credits:
+
+https://github.com/facebook/fb.resnet.torch/blob/master/INSTALL.md#download-the-imagenet-dataset
+https://github.com/pytorch/examples/tree/e0d33a69bec3eb4096c265451dbb85975eb961ea/imagenet
+https://aria2.github.io/
+https://martin-thoma.com/download-data/
