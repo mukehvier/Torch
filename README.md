@@ -40,7 +40,7 @@ wget -qO- https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/
 
 Credits:
 
-https://github.com/facebook/fb.resnet.torch/blob/master/INSTALL.md#download-the-imagenet-dataset
-https://github.com/pytorch/examples/tree/e0d33a69bec3eb4096c265451dbb85975eb961ea/imagenet
-https://aria2.github.io/
-https://martin-thoma.com/download-data/
+* https://github.com/facebook/fb.resnet.torch/blob/master/INSTALL.md#download-the-imagenet-dataset
+* https://github.com/pytorch/examples/tree/e0d33a69bec3eb4096c265451dbb85975eb961ea/imagenet
+* https://aria2.github.io/
+* https://martin-thoma.com/download-data/
